@@ -146,8 +146,8 @@ a|
 |thin-csi
 a| 110Gi Total:
 
-* Prometheus: 2 x 40Gi-80Gi 
-* AlertManager: 3 x 10Gi-30Gi
+* Prometheus: 2 x 40Gi=80Gi 
+* AlertManager: 3 x 10Gi=30Gi
 
 |Logging
 |N/A
